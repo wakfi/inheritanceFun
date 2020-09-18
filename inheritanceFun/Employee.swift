@@ -11,16 +11,20 @@ import Foundation
 class Employee: CustomStringConvertible {
   
   var name: String
-  var salary: Double = 40000.0
+  var salary: Double
   var description: String {
-    return "\(name): $\(salary)"
+    return "My name is \(name) and I make $\(salary)"
   }
   	
   init(name: String) {
     self.name = name
+    self.salary = 40000.00
   }
   
   func raise() {
-    
+    // we don't have keyword abstract in swift
+    // print statement makes this something that
+    // needs to be overridden
+    print("to be implemented by a subclass")
   }
 }
