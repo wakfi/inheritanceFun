@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		36FA9CE625152DDC0051D91A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36FA9CE525152DDC0051D91A /* main.swift */; };
 		36FA9CEF25152EBB0051D91A /* Employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36FA9CEE25152EBB0051D91A /* Employee.swift */; };
+		36FA9CF2251533760051D91A /* Programmer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36FA9CF1251533760051D91A /* Programmer.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +29,7 @@
 		36FA9CE525152DDC0051D91A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		36FA9CEE25152EBB0051D91A /* Employee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Employee.swift; sourceTree = "<group>"; };
 		36FA9CF0251531870051D91A /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = SOURCE_ROOT; };
+		36FA9CF1251533760051D91A /* Programmer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Programmer.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				36FA9CF0251531870051D91A /* .gitignore */,
 				36FA9CE525152DDC0051D91A /* main.swift */,
 				36FA9CEE25152EBB0051D91A /* Employee.swift */,
+				36FA9CF1251533760051D91A /* Programmer.swift */,
 			);
 			path = inheritanceFun;
 			sourceTree = "<group>";
@@ -126,6 +129,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				36FA9CE625152DDC0051D91A /* main.swift in Sources */,
+				36FA9CF2251533760051D91A /* Programmer.swift in Sources */,
 				36FA9CEF25152EBB0051D91A /* Employee.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
