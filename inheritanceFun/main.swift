@@ -14,5 +14,6 @@ import Foundation
 
 
 func employeeTester() {
-  
+  var employees: [Employee] = []
+  employees.append(Programmer(name: "a name", busPass: false))
 }
