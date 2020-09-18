@@ -2,7 +2,7 @@
 //  main.swift
 //  inheritanceFun
 //
-//  Created by Gray, John Walker on 9/18/20.
+//  Created by Walker Gray on 9/18/20.
 //  Copyright © 2020 Walker Gray. All rights reserved.
 //
 
