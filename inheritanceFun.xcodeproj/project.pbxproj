@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		3673AA83251922C800BEC050 /* Lawyer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3673AA82251922C800BEC050 /* Lawyer.swift */; };
+		3673AA85251925DC00BEC050 /* Accountant.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3673AA84251925DC00BEC050 /* Accountant.swift */; };
 		36FA9CE625152DDC0051D91A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36FA9CE525152DDC0051D91A /* main.swift */; };
 		36FA9CEF25152EBB0051D91A /* Employee.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36FA9CEE25152EBB0051D91A /* Employee.swift */; };
 		36FA9CF2251533760051D91A /* Programmer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 36FA9CF1251533760051D91A /* Programmer.swift */; };
@@ -27,6 +28,7 @@
 
 /* Begin PBXFileReference section */
 		3673AA82251922C800BEC050 /* Lawyer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Lawyer.swift; sourceTree = "<group>"; };
+		3673AA84251925DC00BEC050 /* Accountant.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Accountant.swift; sourceTree = "<group>"; };
 		36FA9CE225152DDC0051D91A /* inheritanceFun */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = inheritanceFun; sourceTree = BUILT_PRODUCTS_DIR; };
 		36FA9CE525152DDC0051D91A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		36FA9CEE25152EBB0051D91A /* Employee.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Employee.swift; sourceTree = "<group>"; };
@@ -69,6 +71,7 @@
 				36FA9CEE25152EBB0051D91A /* Employee.swift */,
 				36FA9CF1251533760051D91A /* Programmer.swift */,
 				3673AA82251922C800BEC050 /* Lawyer.swift */,
+				3673AA84251925DC00BEC050 /* Accountant.swift */,
 			);
 			path = inheritanceFun;
 			sourceTree = "<group>";
@@ -134,6 +137,7 @@
 				36FA9CE625152DDC0051D91A /* main.swift in Sources */,
 				36FA9CF2251533760051D91A /* Programmer.swift in Sources */,
 				36FA9CEF25152EBB0051D91A /* Employee.swift in Sources */,
+				3673AA85251925DC00BEC050 /* Accountant.swift in Sources */,
 				3673AA83251922C800BEC050 /* Lawyer.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
